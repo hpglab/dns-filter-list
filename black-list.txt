@@ -1,5 +1,64 @@
-!
-! Title: HPG DNS Filter
-!
-!
-||kompas.com^
+! === Streaming Film Ilegal ===
+||lk21.*^
+||indoxxi.*^
+||rebahin.*^
+||dutafilm.*^
+||nontonxxi.*^
+||cinemakeren.*^
+||ganool.*^
+! === Film Downloader / File Hosting ===
+||mega.nz^
+||mediafire.com^
+||zippyshare.com^
+||uptobox.com^
+||1fichier.com^
+||rapidgator.net^
+||userscloud.com^
+||filesupload.org^
+||sendspace.com^
+||katfile.com^
+||nitroflare.com^
+||uploaded.net^
+||openload.*^
+||gofile.io^
+||anonfiles.com^
+||mixdrop.*^
+||pixeldrain.com^
+||filefactory.com^
+||wetransfer.com^
+! === Judi / Slot Online ===
+||gasmadu303.site^
+||slot88.*^
+||slot777.*^
+||slotgacor.*^
+||judionline.*^
+||casino.*^
+||kasino.*^
+||sbobet.*^
+||ibcbet.*^
+||togel.*^
+||jackpot.*^
+||poker.*^
+||domino.*^
+||qq.*^
+||1xbet.*^
+||bet365.*^
+! === Weapons / Dark Web Mirror ===
+||gunsale.*^
+||weapon.*^
+||armstrade.*^
+||darkmarket.*^
+! === Dating Palsu / Sex Chat Scam ===
+||adultdating.*^
+||sexchat.*^
+||hookup.*^
+||cams.*^
+||chatsex.*^
+||flirt.*^
+! === VPN / Proxy Bypass (Opsional) ===
+||freevpn.*^
+||proxy.*^
+||vpn.*^
+||ultravpn.*^
+||hidemyass.*^
+||hotspotshield.*^
